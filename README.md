@@ -16,4 +16,5 @@ This project is about idea tracking application that helps track and manage inno
    ```bash
    cd frontend
    npm install
+   npm start
 
