@@ -1,18 +1,19 @@
 # php-mysql-react
 
-## To Run
+This project is a task management application that helps track and manage innovative ideas by individuals.
 
-### Setup MySQL Database Locally:
+## Running the Project
 
-### Install MySQL server on your local machine and configure the necessary settings for this project.
+### Setting Up MySQL Database Locally:
 
-### Navigate to 'frontend' Directory:
+1. Install MySQL server on your local machine.
+2. Configure the necessary settings for the project.
 
-### Install Dependencies and Start 'frontend':
+### Starting the Frontend:
 
-Run the following commands in the terminal:
+1. Navigate to the 'frontend' directory.
+2. Install project dependencies by running the following command:
+   ```bash
+   cd frontend
+   npm install
 
-```bash
-cd frontend
-npm install
-npm start
