@@ -1,6 +1,6 @@
 # php-mysql-react
 
-This project is a task management application that helps track and manage innovative ideas by individuals.
+This project is a idea tracking application that helps track and manage innovative ideas by individuals.
 
 ## Running the Project
 
