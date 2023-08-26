@@ -33,12 +33,12 @@ const TaskList = () => {
       {!tasksList.length && (
         <div className="text-center flex flex-col justify-center items-center gap-8 xs:gap-4 sm:gap-6 mt-4">
           <div className="flex flex-col justify-center items-center gap-4">
-            <p className="text-gray-500">Your Idea List Is Empty!</p>
+            <p className="text-quarternary">Your Idea List Is Empty!</p>
             
           <img
             src="/empty.png" 
             alt="Empty Task List"
-            className="mt-2 max-w-[400px] mx-auto xs:w-[200px] sm:w-[320px]"
+            className="mt-2 max-w-[200px] mx-auto xs:w-[100px] sm:w-[120px]"
           />
           </div>
           <Link
@@ -50,7 +50,7 @@ const TaskList = () => {
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
-                className="w-10 h-10"
+                className="w-10 h-10 text-quarternary"
               >
                 <path
                   strokeLinecap="round"
